@@ -1,2 +1,3 @@
 Hello World, this is our Git Lab Repository.
-I'm learning Basic Git staffs, wish me luck. 
+I'm learning Basic Git staffs, wish me luck.
+This line is added in new git branch!! 
