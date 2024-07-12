@@ -1,1 +1,2 @@
-Hello World, this is our Git Lab Repository. 
+Hello World, this is our Git Lab Repository.
+I'm learning Basic Git staffs, wish me luck. 
