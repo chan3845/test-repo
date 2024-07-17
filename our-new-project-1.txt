@@ -1,2 +1,4 @@
 Day 1 >>> Coding Added.
 Day 2 >>> Coding Added.
+Day 3 >>> Fixed the bug.
+Day 4 >>> test code.
