@@ -1,3 +1,8 @@
 Hello World, this is our Git Lab Repository.
+<<<<<<< HEAD
 I'm learning Basic Git staffs, wish me luck.
 This line is added in new git branch!! 
+=======
+I'm learning Basic Git staffs, wish me luck. 
+This line is written from GitHub Remote Repo.
+>>>>>>> master
